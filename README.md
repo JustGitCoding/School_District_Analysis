@@ -7,8 +7,10 @@ The purpose of this analysis is to assess the impact that a school's size, type 
 
 ## Results
 #### Note: Due to the evidence of academic dishonesty that was identified at Thomas High School ("THS"), the Math and Reading scores for the entire ninth grade class at THS has been nullified. The impact to the analysis is summarized below:
-1. The district summary
-![dist_summ_pre_scandal](https://user-images.githubusercontent.com/97985062/154777227-75a60a18-0106-4f75-b89d-417747836c64.png)
+1. The district summary is negatively impacted by the removal of THS 9th grade test scores. We can see the Average Math Score decreasing slightly and the % of students passing math, reading, and overall, each experience a decrease.
+Includes THS 9th Graders:
+![dist_summ_pre_scandal](https://user-images.githubusercontent.com/97985062/154777484-a130beef-5111-498b-b276-09717066f6e0.png)
+Excludes THS 9th Graders:
 ![dist_summ_post_scandal](https://user-images.githubusercontent.com/97985062/154777231-f162b783-b12f-4ca0-bf15-e5023e77e95b.png)
 
 
