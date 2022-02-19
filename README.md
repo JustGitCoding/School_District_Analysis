@@ -26,9 +26,7 @@ The purpose of this analysis is to assess the impact that a school's size, type 
     - Revised DataFrame for THS, ignoring 9th Grade data:
 ![school_summ_post_scandal_ths_revised](https://user-images.githubusercontent.com/97985062/154777243-b680fc10-7661-41b1-8119-dd06ef7239b9.png)
 
-3. Thankfully, this change did not actually result in a material change to THS' standings against other schools, with THS continuing to place second in terms of the percentage of students passing both subjects overall.
-
-    - Revised list of top 5 schools:
+3. Thankfully as a result, this change did not actually move THS' standings against other schools. THS continues to place second in terms of the percentage of students passing both subjects overall:
 ![top_schools_post_scandal](https://user-images.githubusercontent.com/97985062/154777277-1af81c4c-d275-4cad-9182-37ecedd3c556.png)
 
 
